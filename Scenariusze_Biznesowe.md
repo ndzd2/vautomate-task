@@ -51,7 +51,7 @@ Jednocześnie, aby uniknąć podobnych awarii i pożarów w przyszłości (Amazo
 
 **Morning Update na Discorda (09:15):**
 
-> 🌞 Poranny Update: W pierwszej kolejności gaszę błąd kategoryzacji u Klienta A i przygotowuję wycenę dla Sales na ich 14:00. Równolegle przygotuję surowe Case Study dla CEO, żeby było gotowe na czas. Od 11:30 blokuję kalendarz i wchodzę w 5h Deep Worku nad nową integracją Amazona – na Slacku będę odpisywał tylko na powiadomienia @emergency. Literówkę w panelu poprawię w ramach domkniecia dnia po 16:30. Jedziemy!
+> 🌞 Poranny Update: W pierwszej kolejności gaszę błąd kategoryzacji u Klienta A i przygotowuję wycenę dla Sales na 14:00. Równolegle przygotuję surowe Case Study dla CEO, żeby było gotowe na czas. Od 11:30 blokuję kalendarz i wchodzę w 5h Deep Worku nad nową integracją Amazona – na Slacku będę odpisywał tylko na powiadomienia @emergency. Literówkę w panelu poprawię w ramach domkniecia dnia po 16:30. Jedziemy!
 
 ## CZĘŚĆ I: CASE STUDY - Marketplace AI-Fixer
 
