@@ -61,4 +61,4 @@ vautomate-task/
 - Kod źródłowy: https://github.com/ndzd2/vautomate-task
 - Live demo: https://marketplace-ai-chi.vercel.app
 - Plik wynikowy: `wynik.csv` (4 rekordy, UTF-8 BOM)
-- Scenariusze biznesowe: `../Scenariusze_Biznesowe.md`
+- Scenariusze biznesowe + Case Study: `Scenariusze_Biznesowe.md`
