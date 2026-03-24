@@ -1,4 +1,4 @@
-# Marketplace AI-Fixer — VibeCoder @ vAutomate
+# Marketplace AI-Fixer
 
 Rozwiązanie Zadania 1 rekrutacji na stanowisko VibeCoder 1.0.
 
@@ -7,6 +7,7 @@ Rozwiązanie Zadania 1 rekrutacji na stanowisko VibeCoder 1.0.
 Narzędzie pobiera "brudny" eksport produktów od partnera (JSON), przetwarza go po stronie klienta i prezentuje oczyszczone dane w profesjonalnym dashboardzie z możliwością eksportu do CSV.
 
 ### Co robi:
+
 - **Parsuje opisy** dwóch formatów: czysty HTML oraz ukryte obiekty JSON (format Allegro `sections`)
 - **Normalizuje wymiary** z dowolnego formatu wejściowego (`040*060cm`, `400x600 mm`, `50x80cm`) do zunifikowanego `Szerokość x Długość cm`
 - **Rozwija skróty kolorów** (`j. szary`, `BLK`, `c. szary`, `beż`) na pełne nazwy rynkowe
@@ -58,7 +59,7 @@ vautomate-task/
 
 ## Dostarczone materiały
 
-- Kod źródłowy: repozytorium GitHub — `[LINK]`
-- Live demo: `[LINK]`
+- Kod źródłowy: https://github.com/ndzd2/vautomate-task
+- Live demo: https://marketplace-ai-fixer-gamma.vercel.app
 - Plik wynikowy: `wynik.csv` (8 rekordów, UTF-8 BOM)
 - Scenariusze biznesowe: `../Scenariusze_Biznesowe.md`

@@ -1,9 +1,8 @@
 import fs from 'fs';
 import { processDirtyExport } from './src/utils/dataProcessor.js';
 
-const rawData1 = JSON.parse(fs.readFileSync('./src/data/partner_export_dirty.json', 'utf8'));
-const rawData2 = JSON.parse(fs.readFileSync('./src/data/partner_export_dirty_v2.json', 'utf8'));
-const cleanedData = processDirtyExport([...rawData1, ...rawData2]);
+const rawData = JSON.parse(fs.readFileSync('./src/data/partner_export_dirty.json', 'utf8'));
+const cleanedData = processDirtyExport(rawData);
 
 const headers = Object.keys(cleanedData[0]);
 const csvRows = [];

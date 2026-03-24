@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import { processDirtyExport } from './utils/dataProcessor';
-import dirtyDataRaw1 from './data/partner_export_dirty.json';
-import dirtyDataRaw2 from './data/partner_export_dirty_v2.json';
+import dirtyDataRaw from './data/partner_export_dirty.json';
 
-const defaultData = [...dirtyDataRaw1, ...dirtyDataRaw2];
+const defaultData = [...dirtyDataRaw];
 
 function App() {
   const [activeTab, setActiveTab] = useState('cleaned');
