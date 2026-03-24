@@ -1,0 +1,34 @@
+[
+  {
+    "NAZWA ORG": "Dyw. Łazienkowy Belweder 050*080cm WHT",
+    "SKU": "BEL-5080-WHT",
+    "Cena": "65,50",
+    "Opis ofe": "<div><p>Super miękki dywan. <b>Kolor: biały</b></p><br><p>Wymiary 50x80cm</p></div>",
+    "Stany": "malo",
+    "EAN": ""
+  },
+  {
+    "NAZWA ORG": "Dyw. Belweder mały",
+    "SKU": "BEL-SML-BLK",
+    "Cena": "45.00 PLN",
+    "Opis ofe": "{\"sections\":[{\"items\":[{\"type\":\"TEXT\",\"content\":\"Czarny mały dywanik, 400x600 mm, gruby splot.\"}]}]}",
+    "Stany": 2,
+    "EAN": "590000000001"
+  },
+  {
+    "NAZWA ORG": "Dywanik Łazienkowy Premium",
+    "SKU": "PRM-NOC-01",
+    "Cena": "199.90",
+    "Opis ofe": "Brak precyzyjnego opisu html, ale kolor to c. szary (ciemny szary). Wymiar: 060*090cm.",
+    "Stany": 50,
+    "EAN": "590111111111"
+  },
+  {
+    "NAZWA ORG": "Brak nazwy 123",
+    "SKU": "ERR-999",
+    "Cena": "0.00",
+    "Opis ofe": "<p>Zepsute dane, brak wymiarów.</p>",
+    "Stany": "Brak",
+    "EAN": "BŁĄD_ODCZYTU"
+  }
+]
