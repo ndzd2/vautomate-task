@@ -47,8 +47,7 @@ vautomate-task/
 │   ├── App.css                      # Vanilla CSS (Glassmorphism, bez Tailwind)
 │   ├── utils/dataProcessor.js       # Logika czyszczenia danych
 │   └── data/
-│       ├── partner_export_dirty.json    # Oryginalny plik (4 rekordy)
-│       └── partner_export_dirty_v2.json # Rozszerzony zestaw (+4 rekordy)
+│       └── partner_export_dirty.json    # Plik wejściowy (4 rekordy)
 ├── api/
 │   └── generate.js          # Vercel Serverless Function (Groq AI)
 ├── server.js                # Lokalny Express proxy dla API
@@ -60,6 +59,6 @@ vautomate-task/
 ## Dostarczone materiały
 
 - Kod źródłowy: https://github.com/ndzd2/vautomate-task
-- Live demo: https://marketplace-ai-fixer-gamma.vercel.app
-- Plik wynikowy: `wynik.csv` (8 rekordów, UTF-8 BOM)
+- Live demo: https://marketplace-ai-chi.vercel.app
+- Plik wynikowy: `wynik.csv` (4 rekordy, UTF-8 BOM)
 - Scenariusze biznesowe: `../Scenariusze_Biznesowe.md`
